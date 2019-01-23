@@ -1,4 +1,6 @@
-{
+
+       [
+       {
             date: "9/14/45",
             image: "https://images-na.ssl-images-amazon.com/images/I/61lpR21iiNL._AC_SR201,266_.jpg",
             title: "sagittis",
@@ -591,5 +593,6 @@
             image: "https://images-na.ssl-images-amazon.com/images/I/61MYajCGUSL._AC_SR201,266_.jpg",
             title: "luctus",
             description: "tiny",
-        },
+        }
+        ]
     
