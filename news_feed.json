@@ -1,14 +1,26 @@
 [
-    {
-     "date": "9/26/57",
-     "image": "https://images-na.ssl-images-amazon.com/images/I/51QAoSuQtqL._AC_SR201,266_.jpg",
-     "title": "mollis",
-     "description": "copy",
-    },
-    {
-     "date": "3/3/3",
-     "image": "https://images-na.ssl-images-amazon.com/images/I/51J1d8kZsCL._AC_SR201,266_.jpg",
-     "title": "ad",
-     "description": "famous",
+  {
+    "name": "Meowsy",
+    "species" : "cat",
+    "foods": {
+      "likes": ["tuna", "catnip"],
+      "dislikes": ["ham", "zucchini"]
     }
-    ]
+  },
+  {
+    "name": "Barky",
+    "species" : "dog",
+    "foods": {
+      "likes": ["bones", "carrots"],
+      "dislikes": ["tuna"]
+    }
+  },
+  {
+    "name": "Purrpaws",
+    "species" : "cat",
+    "foods": {
+      "likes": ["mice"],
+      "dislikes": ["cookies"]
+    }
+  }
+]
