@@ -1,5 +1,4 @@
 [
-  {
     {
     "image": "https://blue-marble.de/night/Earthlights_2002.png",
     "date" : "Sample Post Date",
@@ -30,5 +29,5 @@
     "title": "Sample Post Title",
     "body": "Sample Post Body"
   }
-  }
+
 ]
