@@ -1,6 +1,24 @@
 [
   {
-    "image": "Sample Post Image",
+    "image": "https://blue-marble.de/night/Earthlights_2002.png",
+    "date" : "Sample Post Date",
+    "title": "Sample Post Title",
+    "body": "Sample Post Body"
+  },
+  {
+    "image": "https://blue-marble.de/night/Earthlights_2002.png",
+    "date" : "Sample Post Date",
+    "title": "Sample Post Title",
+    "body": "Sample Post Body"
+  },
+  {
+    "image": "https://blue-marble.de/night/Earthlights_2002.png",
+    "date" : "Sample Post Date",
+    "title": "Sample Post Title",
+    "body": "Sample Post Body"
+  },
+  {
+    "image": "https://blue-marble.de/night/Earthlights_2002.png",
     "date" : "Sample Post Date",
     "title": "Sample Post Title",
     "body": "Sample Post Body"
@@ -18,31 +36,13 @@
     "body": "Sample Post Body"
   },
   {
-    "image": "Sample Post Image",
+    "image": "https://blue-marble.de/night/Earthlights_2002.png",
     "date" : "Sample Post Date",
     "title": "Sample Post Title",
     "body": "Sample Post Body"
   },
   {
-    "image": "Sample Post Image",
-    "date" : "Sample Post Date",
-    "title": "Sample Post Title",
-    "body": "Sample Post Body"
-  },
-  {
-    "image": "Sample Post Image",
-    "date" : "Sample Post Date",
-    "title": "Sample Post Title",
-    "body": "Sample Post Body"
-  },
-  {
-    "image": "Sample Post Image",
-    "date" : "Sample Post Date",
-    "title": "Sample Post Title",
-    "body": "Sample Post Body"
-  },
-  {
-    "image": "Sample Post Image",
+    "image": "https://blue-marble.de/night/Earthlights_2002.png",
     "date" : "Sample Post Date",
     "title": "Sample Post Title",
     "body": "Sample Post Body"
